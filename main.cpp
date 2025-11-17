@@ -5,5 +5,6 @@ int main() {
     cout << "Введите A и B: ";
     cin >> a >> b;
     cout << "A+B=" << a + b << endl;
+    cout << "A-B=" << a - b << endl;
     return 0;
 }
